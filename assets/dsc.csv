@@ -1,0 +1,547 @@
+﻿Code,Item,Imports,Exports,Re-Exports,Year,Trade
+1,"01- Live Animals, animals products"," 7,769 "," 1,132 ", 675 ,2012,DFT
+2,02- Vegetable products ," 18,112 ", 438 ," 4,946 ",2012,DFT
+3,"03- Animal and vegetable fats, oils and waxes"," 1,012 ", 768 , 94 ,2012,DFT
+4,"04- Prepared Foodstuffs, beverages and tobacco"," 11,753 "," 5,531 "," 3,124 ",2012,DFT
+5,05- Mineral products ," 5,280 "," 3,102 ", 566 ,2012,DFT
+6,06- Products of chemical and allied industries," 24,971 "," 3,024 "," 3,437 ",2012,DFT
+7,"07- Plastics, rubber and articles thereof"," 12,299 "," 5,300 "," 3,165 ",2012,DFT
+8,"08- Raw hides, skins, leather and articles"," 3,101 ", 20 , 539 ,2012,DFT
+9,"09- Wood and articles, cork and plating materials"," 2,892 ", 49 , 633 ,2012,DFT
+10,"10- Pulp of wood, paper products and waste paper"," 4,481 "," 2,302 ", 456 ,2012,DFT
+11,11- Textiles and textile articles," 20,295 ", 990 ," 5,531 ",2012,DFT
+12,"12- Footwear, headgear and umbrellas"," 3,482 ", 29 , 517 ,2012,DFT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass"," 4,390 "," 2,380 "," 1,551 ",2012,DFT
+14,"14- Pearls, precious stones and metals"," 192,503 "," 108,249 "," 69,067 ",2012,DFT
+15,15- Base metals and articles of base metals," 28,353 "," 12,312 "," 5,434 ",2012,DFT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 74,642 "," 1,445 "," 30,582 ",2012,DFT
+17,"17- Vehicles, aircraft and vessels"," 70,474 ", 688 ," 23,131 ",2012,DFT
+18,"18- Optical, medical equipments and watches"," 7,989 ", 46 ," 2,150 ",2012,DFT
+19,"19- Arms, ammunition, parts and accessories", 24 , 6 , 11 ,2012,DFT
+20,20- Miscellaneous manufactured articles not elsewhere classified," 7,745 ", 653 ," 1,779 ",2012,DFT
+21,"21- Art work, collectors pieces and antiques", 100 , 22 , 300 ,2012,DFT
+1,"01- Live Animals, animals products"," 8,449 "," 1,257 ", 879 ,2013,DFT
+2,02- Vegetable products ," 19,619 ", 729 ," 5,080 ",2013,DFT
+3,"03- Animal and vegetable fats, oils and waxes", 786 , 802 , 96 ,2013,DFT
+4,"04- Prepared Foodstuffs, beverages and tobacco"," 11,778 "," 6,372 "," 3,444 ",2013,DFT
+5,05- Mineral products ," 6,186 "," 3,773 ", 687 ,2013,DFT
+6,06- Products of chemical and allied industries," 27,725 "," 3,349 "," 3,436 ",2013,DFT
+7,"07- Plastics, rubber and articles thereof"," 12,790 "," 5,412 "," 3,880 ",2013,DFT
+8,"08- Raw hides, skins, leather and articles"," 3,654 ", 31 , 579 ,2013,DFT
+9,"09- Wood and articles, cork and plating materials"," 2,704 ", 66 , 700 ,2013,DFT
+10,"10- Pulp of wood, paper products and waste paper"," 4,270 "," 3,805 ", 437 ,2013,DFT
+11,11- Textiles and textile articles," 21,962 "," 1,141 "," 7,018 ",2013,DFT
+12,"12- Footwear, headgear and umbrellas"," 4,130 ", 30 , 581 ,2013,DFT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass"," 4,521 "," 2,426 "," 1,527 ",2013,DFT
+14,"14- Pearls, precious stones and metals"," 210,545 "," 79,880 "," 69,785 ",2013,DFT
+15,15- Base metals and articles of base metals," 27,641 "," 13,704 "," 5,329 ",2013,DFT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 90,450 "," 1,938 "," 38,424 ",2013,DFT
+17,"17- Vehicles, aircraft and vessels"," 70,066 ", 591 ," 28,286 ",2013,DFT
+18,"18- Optical, medical equipments and watches"," 8,873 ", 31 ," 2,307 ",2013,DFT
+19,"19- Arms, ammunition, parts and accessories", 96 , 8 , 20 ,2013,DFT
+20,20- Miscellaneous manufactured articles not elsewhere classified," 8,649 ", 639 ," 2,046 ",2013,DFT
+21,"21- Art work, collectors pieces and antiques", 131 , 43 , 175 ,2013,DFT
+1,"01- Live Animals, animals products"," 9,238 "," 1,273 ", 922 ,2014,DFT
+2,02- Vegetable products ," 21,337 ", 801 ," 5,368 ",2014,DFT
+3,"03- Animal and vegetable fats, oils and waxes", 890 ," 1,004 ", 92 ,2014,DFT
+4,"04- Prepared Foodstuffs, beverages and tobacco"," 13,614 "," 6,569 "," 4,057 ",2014,DFT
+5,05- Mineral products ," 5,699 "," 3,956 ", 483 ,2014,DFT
+6,06- Products of chemical and allied industries," 30,482 "," 3,881 "," 3,460 ",2014,DFT
+7,"07- Plastics, rubber and articles thereof"," 14,541 "," 4,660 "," 4,242 ",2014,DFT
+8,"08- Raw hides, skins, leather and articles"," 3,802 ", 32 , 459 ,2014,DFT
+9,"09- Wood and articles, cork and plating materials"," 3,389 ", 70 , 846 ,2014,DFT
+10,"10- Pulp of wood, paper products and waste paper"," 4,004 "," 3,276 ", 533 ,2014,DFT
+11,11- Textiles and textile articles," 24,105 "," 1,171 "," 6,567 ",2014,DFT
+12,"12- Footwear, headgear and umbrellas"," 4,723 ", 30 , 646 ,2014,DFT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass"," 5,088 "," 2,600 "," 1,654 ",2014,DFT
+14,"14- Pearls, precious stones and metals"," 170,184 "," 44,868 "," 62,345 ",2014,DFT
+15,15- Base metals and articles of base metals," 30,213 "," 20,634 "," 5,595 ",2014,DFT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 109,187 "," 2,259 "," 38,514 ",2014,DFT
+17,"17- Vehicles, aircraft and vessels"," 76,415 "," 1,795 "," 30,819 ",2014,DFT
+18,"18- Optical, medical equipments and watches"," 9,943 ", 50 ," 2,542 ",2014,DFT
+19,"19- Arms, ammunition, parts and accessories", 83 , 6 , 7 ,2014,DFT
+20,20- Miscellaneous manufactured articles not elsewhere classified," 10,099 ", 771 ," 2,083 ",2014,DFT
+21,"21- Art work, collectors pieces and antiques", 227 , 34 , 538 ,2014,DFT
+1,"01- Live Animals, animals products"," 8,760 "," 1,333 ", 941 ,2015,DFT
+2,02- Vegetable products ," 22,839 ", 929 ," 6,699 ",2015,DFT
+3,"03- Animal and vegetable fats, oils and waxes", 890 , 729 , 159 ,2015,DFT
+4,04- Prepared Foodstuffs," 13,634 "," 6,217 "," 4,933 ",2015,DFT
+5,05- Mineral products ," 5,081 "," 3,492 ", 489 ,2015,DFT
+6,06- Products of chemical and allied industries," 29,275 "," 4,480 "," 3,435 ",2015,DFT
+7,"07- Plastics, rubber and articles thereof"," 13,441 "," 4,872 "," 3,700 ",2015,DFT
+8,"08- Raw hides, skins, leather and articles"," 3,463 ", 20 , 461 ,2015,DFT
+9,"09- Wood and articles, cork and plating materials"," 3,377 ", 70 , 763 ,2015,DFT
+10,"10- Pulp of wood, paper products and waste paper"," 3,980 "," 3,405 ", 603 ,2015,DFT
+11,11- Textiles and textile articles," 22,917 "," 1,256 "," 6,377 ",2015,DFT
+12,"12- Footwear, headgear and umbrellas"," 5,295 ", 31 , 776 ,2015,DFT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass"," 5,165 "," 2,286 "," 1,455 ",2015,DFT
+14,"14- Pearls, precious stones and metals"," 142,366 "," 61,159 "," 59,292 ",2015,DFT
+15,15- Base metals and articles of base metals," 27,263 "," 24,339 "," 4,667 ",2015,DFT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 109,612 "," 2,458 "," 38,144 ",2015,DFT
+17,"17- Vehicles, aircraft and vessels"," 76,648 "," 1,070 "," 29,982 ",2015,DFT
+18,"18- Optical, medical equipments and watches"," 9,692 ", 46 ," 3,757 ",2015,DFT
+19,"19- Arms, ammunition, parts and accessories", 107 , 3 , 6 ,2015,DFT
+20,20- Miscellaneous manufactured articles not elsewhere classified," 10,295 ", 664 ," 2,115 ",2015,DFT
+21,"21- Art work, collectors pieces and antiques", 145 , 52 , 225 ,2015,DFT
+1,"01- Live Animals, animals products"," 7,586 "," 1,309 ", 711 ,2016,DFT
+2,02- Vegetable products ," 21,675 ", 926 ," 5,824 ",2016,DFT
+3,"03- Animal and vegetable fats, oils and waxes", 885 , 595 , 246 ,2016,DFT
+4,04- Prepared Foodstuffs," 13,524 "," 6,919 "," 4,420 ",2016,DFT
+5,05- Mineral products ," 9,351 "," 3,381 ", 380 ,2016,DFT
+6,06- Products of chemical and allied industries," 27,800 "," 4,457 "," 3,361 ",2016,DFT
+7,"07- Plastics, rubber and articles thereof"," 12,304 "," 4,782 "," 3,540 ",2016,DFT
+8,"08- Raw hides, skins, leather and articles"," 3,142 ", 15 , 426 ,2016,DFT
+9,"09- Wood and articles, cork and plating materials"," 3,113 ", 62 , 585 ,2016,DFT
+10,"10- Pulp of wood, paper products and waste paper"," 3,629 "," 4,602 ", 479 ,2016,DFT
+11,11- Textiles and textile articles," 20,148 ", 996 ," 7,166 ",2016,DFT
+12,"12- Footwear, headgear and umbrellas"," 4,526 ", 28 , 849 ,2016,DFT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass"," 4,955 "," 2,395 "," 1,501 ",2016,DFT
+14,"14- Pearls, precious stones and metals"," 172,840 "," 71,086 "," 62,880 ",2016,DFT
+15,15- Base metals and articles of base metals," 23,199 "," 23,065 "," 3,927 ",2016,DFT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 110,088 "," 2,466 "," 35,743 ",2016,DFT
+17,"17- Vehicles, aircraft and vessels"," 76,983 "," 1,627 "," 27,142 ",2016,DFT
+18,"18- Optical, medical equipments and watches"," 9,889 ", 48 ," 3,199 ",2016,DFT
+19,"19- Arms, ammunition, parts and accessories", 133 , 32 , 19 ,2016,DFT
+20,20- Miscellaneous manufactured articles not elsewhere classified," 9,616 ", 608 ," 2,493 ",2016,DFT
+21,"21- Art work, collectors pieces and antiques", 170 , 39 , 173 ,2016,DFT
+1,"01- Live Animals, animals products"," 8,142 "," 1,198 ", 643 ,2017,DFT
+2,02- Vegetable products ," 21,241 "," 1,020 "," 5,299 ",2017,DFT
+3,"03- Animal and vegetable fats, oils and waxes"," 1,061 ", 598 , 184 ,2017,DFT
+4,04- Prepared Foodstuffs," 13,485 "," 8,735 "," 3,312 ",2017,DFT
+5,05- Mineral products ," 9,573 "," 3,778 ", 469 ,2017,DFT
+6,06- Products of chemical and allied industries," 28,416 "," 3,935 "," 3,070 ",2017,DFT
+7,"07- Plastics, rubber and articles thereof"," 12,601 "," 4,225 "," 3,261 ",2017,DFT
+8,"08- Raw hides, skins, leather and articles"," 3,101 ", 18 , 300 ,2017,DFT
+9,"09- Wood and articles, cork and plating materials"," 3,345 ", 80 , 438 ,2017,DFT
+10,"10- Pulp of wood, paper products and waste paper"," 3,842 "," 2,998 ", 397 ,2017,DFT
+11,11- Textiles and textile articles," 18,586 "," 1,082 "," 6,754 ",2017,DFT
+12,"12- Footwear, headgear and umbrellas"," 4,177 ", 33 , 728 ,2017,DFT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass"," 4,928 "," 2,274 "," 1,420 ",2017,DFT
+14,"14- Pearls, precious stones and metals"," 178,164 "," 63,778 "," 73,169 ",2017,DFT
+15,15- Base metals and articles of base metals," 23,732 "," 24,517 "," 3,656 ",2017,DFT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 107,071 "," 3,156 "," 42,211 ",2017,DFT
+17,"17- Vehicles, aircraft and vessels"," 57,298 "," 1,291 "," 35,359 ",2017,DFT
+18,"18- Optical, medical equipments and watches"," 9,941 ", 66 ," 3,766 ",2017,DFT
+19,"19- Arms, ammunition, parts and accessories", 87 , 10 , 21 ,2017,DFT
+20,20- Miscellaneous manufactured articles not elsewhere classified," 9,272 ", 718 ," 1,984 ",2017,DFT
+21,"21- Art work, collectors pieces and antiques", 218 , 152 , 312 ,2017,DFT
+1,"01- Live Animals, animals products"," 8,961 "," 1,229 "," 1,056 ",2018,DFT
+2,02- Vegetable products ," 18,373 "," 1,356 "," 5,082 ",2018,DFT
+3,"03- Animal and vegetable fats, oils and waxes", 973 , 680 , 78 ,2018,DFT
+4,04- Prepared Foodstuffs," 12,431 "," 6,378 "," 2,387 ",2018,DFT
+5,05- Mineral products ," 11,300 "," 3,952 ", 297 ,2018,DFT
+6,06- Products of chemical and allied industries," 26,549 "," 5,099 "," 3,253 ",2018,DFT
+7,"07- Plastics, rubber and articles thereof"," 12,730 "," 3,848 "," 2,948 ",2018,DFT
+8,"08- Raw hides, skins, leather and articles"," 3,044 ", 25 , 339 ,2018,DFT
+9,"09- Wood and articles, cork and plating materials"," 3,451 ", 60 , 362 ,2018,DFT
+10,"10- Pulp of wood, paper products and waste paper"," 4,195 "," 2,701 ", 553 ,2018,DFT
+11,11- Textiles and textile articles," 15,755 "," 1,316 "," 4,951 ",2018,DFT
+12,"12- Footwear, headgear and umbrellas"," 3,775 ", 48 , 659 ,2018,DFT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass"," 4,675 "," 2,345 "," 1,049 ",2018,DFT
+14,"14- Pearls, precious stones and metals"," 170,391 "," 47,343 "," 76,813 ",2018,DFT
+15,15- Base metals and articles of base metals," 25,472 "," 26,020 "," 3,692 ",2018,DFT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 83,386 "," 3,318 "," 33,845 ",2018,DFT
+17,"17- Vehicles, aircraft and vessels"," 45,985 "," 3,067 "," 33,774 ",2018,DFT
+18,"18- Optical, medical equipments and watches"," 10,117 ", 130 ," 3,740 ",2018,DFT
+19,"19- Arms, ammunition, parts and accessories", 85 , 5 , 26 ,2018,DFT
+20,20- Miscellaneous manufactured articles not elsewhere classified," 8,654 ", 693 ," 1,675 ",2018,DFT
+21,"21- Art work, collectors pieces and antiques", 199 , 112 , 167 ,2018,DFT
+1,"01- Live Animals, animals products"," 8,713 "," 1,127 ", 979 ,2019,DFT
+2,02- Vegetable products ," 17,830 "," 1,515 "," 5,166 ",2019,DFT
+3,"03- Animal and vegetable fats, oils and waxes", 879 ," 1,165 ", 79 ,2019,DFT
+4,04- Prepared Foodstuffs," 12,009 "," 6,446 "," 2,441 ",2019,DFT
+5,05- Mineral products ," 22,555 "," 4,148 ", 354 ,2019,DFT
+6,06- Products of chemical and allied industries," 27,458 "," 7,630 "," 3,416 ",2019,DFT
+7,"07- Plastics, rubber and articles thereof"," 12,391 "," 4,452 "," 3,697 ",2019,DFT
+8,"08- Raw hides, skins, leather and articles"," 2,896 ", 24 , 401 ,2019,DFT
+9,"09- Wood and articles, cork and plating materials"," 2,844 ", 50 , 353 ,2019,DFT
+10,"10- Pulp of wood, paper products and waste paper"," 4,159 "," 2,286 ", 732 ,2019,DFT
+11,11- Textiles and textile articles," 15,785 "," 1,338 "," 5,431 ",2019,DFT
+12,"12- Footwear, headgear and umbrellas"," 3,826 ", 71 , 809 ,2019,DFT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass"," 4,714 "," 1,938 ", 873 ,2019,DFT
+14,"14- Pearls, precious stones and metals"," 173,576 "," 61,297 "," 70,005 ",2019,DFT
+15,15- Base metals and articles of base metals," 24,566 "," 25,975 "," 3,518 ",2019,DFT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 84,393 "," 3,709 "," 32,410 ",2019,DFT
+17,"17- Vehicles, aircraft and vessels"," 41,398 ", 953 ," 28,571 ",2019,DFT
+18,"18- Optical, medical equipments and watches"," 10,282 ", 91 ," 4,371 ",2019,DFT
+19,"19- Arms, ammunition, parts and accessories", 46 , 5 , 17 ,2019,DFT
+20,20- Miscellaneous manufactured articles not elsewhere classified," 8,604 ", 727 ," 1,676 ",2019,DFT
+21,"21- Art work, collectors pieces and antiques", 302 , 59 , 421 ,2019,DFT
+1,"01- Live Animals, animals products"," 8,016 ", 825 ," 1,011 ",2020,DFT
+2,02- Vegetable products ," 17,899 "," 1,618 "," 4,486 ",2020,DFT
+3,"03- Animal and vegetable fats, oils and waxes", 913 ," 1,857 ", 70 ,2020,DFT
+4,04- Prepared Foodstuffs," 10,785 "," 8,955 "," 1,956 ",2020,DFT
+5,05- Mineral products ," 28,665 "," 3,987 ", 357 ,2020,DFT
+6,06- Products of chemical and allied industries," 24,197 "," 6,607 "," 3,358 ",2020,DFT
+7,"07- Plastics, rubber and articles thereof"," 11,125 "," 5,034 "," 2,963 ",2020,DFT
+8,"08- Raw hides, skins, leather and articles"," 1,980 ", 17 , 282 ,2020,DFT
+9,"09- Wood and articles, cork and plating materials"," 2,255 ", 47 , 392 ,2020,DFT
+10,"10- Pulp of wood, paper products and waste paper"," 3,520 "," 2,512 ", 924 ,2020,DFT
+11,11- Textiles and textile articles," 12,350 "," 1,320 "," 3,559 ",2020,DFT
+12,"12- Footwear, headgear and umbrellas"," 2,878 ", 32 , 568 ,2020,DFT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass"," 3,876 "," 1,819 ", 643 ,2020,DFT
+14,"14- Pearls, precious stones and metals"," 177,253 "," 82,568 "," 46,900 ",2020,DFT
+15,15- Base metals and articles of base metals," 19,879 "," 22,268 "," 2,923 ",2020,DFT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 70,208 "," 3,792 "," 27,537 ",2020,DFT
+17,"17- Vehicles, aircraft and vessels"," 28,122 ", 636 ," 22,578 ",2020,DFT
+18,"18- Optical, medical equipments and watches"," 9,204 ", 94 ," 2,873 ",2020,DFT
+19,"19- Arms, ammunition, parts and accessories", 67 , 9 , 12 ,2020,DFT
+20,20- Miscellaneous manufactured articles not elsewhere classified," 7,257 ", 837 ," 1,404 ",2020,DFT
+21,"21- Art work, collectors pieces and antiques", 211 , 97 , 524 ,2020,DFT
+1,"01- Live Animals, animals products", 237 , 4 , 65 ,2012,FZT
+2,02- Vegetable products , 831 , 156 , 289 ,2012,FZT
+3,"03- Animal and vegetable fats, oils and waxes", 224 , 265 , 12 ,2012,FZT
+4,"04- Prepared Foodstuffs, beverages and tobacco"," 8,166 "," 2,554 "," 4,456 ",2012,FZT
+5,05- Mineral products ," 16,700 "," 1,648 "," 14,545 ",2012,FZT
+6,06- Products of chemical and allied industries," 12,598 ", 845 ," 9,429 ",2012,FZT
+7,"07- Plastics, rubber and articles thereof"," 5,830 "," 1,021 "," 2,866 ",2012,FZT
+8,"08- Raw hides, skins, leather and articles"," 1,199 ", 1 , 551 ,2012,FZT
+9,"09- Wood and articles, cork and plating materials", 686 , 16 , 69 ,2012,FZT
+10,"10- Pulp of wood, paper products and waste paper"," 1,093 ", 150 , 271 ,2012,FZT
+11,11- Textiles and textile articles," 6,883 ", 401 ," 2,967 ",2012,FZT
+12,"12- Footwear, headgear and umbrellas"," 2,101 ", -   , 946 ,2012,FZT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass"," 1,430 ", 95 , 977 ,2012,FZT
+14,"14- Pearls, precious stones and metals"," 25,817 ", -   ," 21,660 ",2012,FZT
+15,15- Base metals and articles of base metals," 12,782 "," 1,666 "," 5,103 ",2012,FZT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 108,831 "," 1,265 "," 95,733 ",2012,FZT
+17,"17- Vehicles, aircraft and vessels"," 11,523 "," 1,712 "," 7,656 ",2012,FZT
+18,"18- Optical, medical equipments and watches"," 7,875 ", 73 ," 7,131 ",2012,FZT
+19,"19- Arms, ammunition, parts and accessories", 2 , -   , -   ,2012,FZT
+20,20- Miscellaneous manufactured articles not elsewhere classified," 3,088 ", 119 ," 2,137 ",2012,FZT
+21,"21- Art work, collectors pieces and antiques", 149 , -   , 161 ,2012,FZT
+1,"01- Live Animals, animals products", 344 , 8 , 167 ,2013,FZT
+2,02- Vegetable products ," 1,014 ", 185 , 399 ,2013,FZT
+3,"03- Animal and vegetable fats, oils and waxes", 195 , 146 , 36 ,2013,FZT
+4,"04- Prepared Foodstuffs, beverages and tobacco"," 7,900 "," 2,771 "," 4,994 ",2013,FZT
+5,05- Mineral products ," 15,489 ", 946 ," 12,677 ",2013,FZT
+6,06- Products of chemical and allied industries," 16,021 ", 643 ," 11,523 ",2013,FZT
+7,"07- Plastics, rubber and articles thereof"," 5,890 ", 954 ," 3,162 ",2013,FZT
+8,"08- Raw hides, skins, leather and articles"," 1,432 ", 2 , 657 ,2013,FZT
+9,"09- Wood and articles, cork and plating materials", 692 , 29 , 79 ,2013,FZT
+10,"10- Pulp of wood, paper products and waste paper"," 1,333 ", 184 , 407 ,2013,FZT
+11,11- Textiles and textile articles," 8,355 ", 336 ," 4,515 ",2013,FZT
+12,"12- Footwear, headgear and umbrellas"," 2,568 ", -   ," 1,239 ",2013,FZT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass"," 1,502 ", 128 , 986 ,2013,FZT
+14,"14- Pearls, precious stones and metals"," 20,811 ", -   ," 13,355 ",2013,FZT
+15,15- Base metals and articles of base metals," 14,275 "," 1,748 "," 7,365 ",2013,FZT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 130,648 "," 1,634 "," 123,369 ",2013,FZT
+17,"17- Vehicles, aircraft and vessels"," 13,142 "," 2,461 "," 8,278 ",2013,FZT
+18,"18- Optical, medical equipments and watches"," 7,149 ", 89 ," 6,693 ",2013,FZT
+19,"19- Arms, ammunition, parts and accessories", 1 , -   , -   ,2013,FZT
+20,20- Miscellaneous manufactured articles not elsewhere classified," 2,996 ", 694 ," 2,048 ",2013,FZT
+21,"21- Art work, collectors pieces and antiques", 145 , -   , 97 ,2013,FZT
+1,"01- Live Animals, animals products", 583 , 5 , 265 ,2014,FZT
+2,02- Vegetable products , 935 , 203 , 418 ,2014,FZT
+3,"03- Animal and vegetable fats, oils and waxes", 167 , 86 , 51 ,2014,FZT
+4,"04- Prepared Foodstuffs, beverages and tobacco"," 10,567 "," 2,871 "," 6,509 ",2014,FZT
+5,05- Mineral products ," 19,336 "," 1,169 "," 12,688 ",2014,FZT
+6,06- Products of chemical and allied industries," 17,113 ", 826 ," 12,386 ",2014,FZT
+7,"07- Plastics, rubber and articles thereof"," 6,207 ", 984 ," 3,194 ",2014,FZT
+8,"08- Raw hides, skins, leather and articles"," 1,644 ", 2 , 715 ,2014,FZT
+9,"09- Wood and articles, cork and plating materials"," 1,024 ", 13 , 76 ,2014,FZT
+10,"10- Pulp of wood, paper products and waste paper"," 1,681 ", 220 , 570 ,2014,FZT
+11,11- Textiles and textile articles," 9,702 ", 262 ," 4,775 ",2014,FZT
+12,"12- Footwear, headgear and umbrellas"," 3,191 ", -   ," 1,523 ",2014,FZT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass"," 1,603 ", 144 , 942 ,2014,FZT
+14,"14- Pearls, precious stones and metals"," 15,601 ", -   ," 9,866 ",2014,FZT
+15,15- Base metals and articles of base metals," 13,259 "," 1,778 "," 4,822 ",2014,FZT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 142,855 "," 2,350 "," 121,262 ",2014,FZT
+17,"17- Vehicles, aircraft and vessels"," 17,348 "," 2,084 "," 11,555 ",2014,FZT
+18,"18- Optical, medical equipments and watches"," 8,030 ", 179 ," 6,567 ",2014,FZT
+19,"19- Arms, ammunition, parts and accessories", -   , -   , -   ,2014,FZT
+20,20- Miscellaneous manufactured articles not elsewhere classified," 3,784 ", 146 ," 2,407 ",2014,FZT
+21,"21- Art work, collectors pieces and antiques", 114 , -   , 53 ,2014,FZT
+1,"01- Live Animals, animals products", 499 , 6 , 182 ,2015,FZT
+2,02- Vegetable products ," 1,098 ", 309 , 366 ,2015,FZT
+3,"03- Animal and vegetable fats, oils and waxes", 88 , 47 , 22 ,2015,FZT
+4,04- Prepared Foodstuffs," 9,795 "," 3,570 "," 6,947 ",2015,FZT
+5,05- Mineral products ," 15,455 ", 675 ," 9,926 ",2015,FZT
+6,06- Products of chemical and allied industries," 15,896 "," 1,104 "," 11,663 ",2015,FZT
+7,"07- Plastics, rubber and articles thereof"," 5,360 ", 894 ," 2,692 ",2015,FZT
+8,"08- Raw hides, skins, leather and articles"," 1,603 ", 1 , 766 ,2015,FZT
+9,"09- Wood and articles, cork and plating materials", 995 , 14 , 83 ,2015,FZT
+10,"10- Pulp of wood, paper products and waste paper"," 1,665 ", 252 , 469 ,2015,FZT
+11,11- Textiles and textile articles," 10,239 ", 279 ," 5,660 ",2015,FZT
+12,"12- Footwear, headgear and umbrellas"," 3,928 ", 1 ," 1,948 ",2015,FZT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass"," 1,300 ", 121 , 678 ,2015,FZT
+14,"14- Pearls, precious stones and metals"," 12,475 ", -   ," 10,293 ",2015,FZT
+15,15- Base metals and articles of base metals," 11,448 "," 1,476 "," 4,305 ",2015,FZT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 130,146 "," 2,429 "," 111,411 ",2015,FZT
+17,"17- Vehicles, aircraft and vessels"," 15,482 ", 519 ," 10,000 ",2015,FZT
+18,"18- Optical, medical equipments and watches"," 7,590 ", 65 ," 5,670 ",2015,FZT
+19,"19- Arms, ammunition, parts and accessories", -   , -   , -   ,2015,FZT
+20,20- Miscellaneous manufactured articles not elsewhere classified," 4,261 ", 88 ," 2,519 ",2015,FZT
+21,"21- Art work, collectors pieces and antiques", 338 , -   , 115 ,2015,FZT
+1,"01- Live Animals, animals products", 557 , 11 , 134 ,2016,FZT
+2,02- Vegetable products , 820 , 211 , 264 ,2016,FZT
+3,"03- Animal and vegetable fats, oils and waxes", 56 , 35 , 16 ,2016,FZT
+4,04- Prepared Foodstuffs," 10,461 "," 4,247 "," 6,948 ",2016,FZT
+5,05- Mineral products ," 19,232 ", 507 ," 9,904 ",2016,FZT
+6,06- Products of chemical and allied industries," 16,114 "," 1,076 "," 11,515 ",2016,FZT
+7,"07- Plastics, rubber and articles thereof"," 5,976 "," 1,289 "," 2,915 ",2016,FZT
+8,"08- Raw hides, skins, leather and articles"," 1,621 ", 1 , 847 ,2016,FZT
+9,"09- Wood and articles, cork and plating materials", 886 , 7 , 88 ,2016,FZT
+10,"10- Pulp of wood, paper products and waste paper"," 1,716 ", 246 , 424 ,2016,FZT
+11,11- Textiles and textile articles," 9,126 ", 193 ," 4,819 ",2016,FZT
+12,"12- Footwear, headgear and umbrellas"," 3,683 ", -   ," 2,166 ",2016,FZT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass"," 1,103 ", 106 , 514 ,2016,FZT
+14,"14- Pearls, precious stones and metals"," 10,471 ", -   ," 10,602 ",2016,FZT
+15,15- Base metals and articles of base metals," 9,805 "," 1,410 "," 3,370 ",2016,FZT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 114,543 "," 2,421 "," 92,076 ",2016,FZT
+17,"17- Vehicles, aircraft and vessels"," 15,548 ", 340 ," 9,774 ",2016,FZT
+18,"18- Optical, medical equipments and watches"," 7,630 ", 117 ," 6,508 ",2016,FZT
+19,"19- Arms, ammunition, parts and accessories", -   , -   , -   ,2016,FZT
+20,20- Miscellaneous manufactured articles not elsewhere classified," 4,262 ", 78 ," 2,365 ",2016,FZT
+21,"21- Art work, collectors pieces and antiques", 179 , -   , 113 ,2016,FZT
+1,"01- Live Animals, animals products", 916 , 10 , 166 ,2017,FZT
+2,02- Vegetable products ," 1,074 ", 199 , 399 ,2017,FZT
+3,"03- Animal and vegetable fats, oils and waxes", 82 , 48 , 12 ,2017,FZT
+4,04- Prepared Foodstuffs," 13,010 "," 4,590 "," 7,547 ",2017,FZT
+5,05- Mineral products ," 19,448 ", 595 ," 12,224 ",2017,FZT
+6,06- Products of chemical and allied industries," 16,304 "," 1,259 "," 11,033 ",2017,FZT
+7,"07- Plastics, rubber and articles thereof"," 6,762 "," 1,124 "," 3,655 ",2017,FZT
+8,"08- Raw hides, skins, leather and articles"," 1,734 ", 1 , 955 ,2017,FZT
+9,"09- Wood and articles, cork and plating materials", 953 , 8 , 79 ,2017,FZT
+10,"10- Pulp of wood, paper products and waste paper"," 1,669 ", 237 , 488 ,2017,FZT
+11,11- Textiles and textile articles," 8,648 ", 194 ," 4,704 ",2017,FZT
+12,"12- Footwear, headgear and umbrellas"," 3,362 ", -   ," 2,197 ",2017,FZT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass"," 1,118 ", 91 , 465 ,2017,FZT
+14,"14- Pearls, precious stones and metals"," 8,589 ", -   ," 7,811 ",2017,FZT
+15,15- Base metals and articles of base metals," 10,637 "," 1,563 "," 3,434 ",2017,FZT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 120,784 "," 3,184 "," 95,685 ",2017,FZT
+17,"17- Vehicles, aircraft and vessels"," 18,827 "," 1,826 "," 12,770 ",2017,FZT
+18,"18- Optical, medical equipments and watches"," 7,042 ", 175 ," 6,556 ",2017,FZT
+19,"19- Arms, ammunition, parts and accessories", 2 , -   , -   ,2017,FZT
+20,20- Miscellaneous manufactured articles not elsewhere classified," 4,601 ", 136 ," 2,529 ",2017,FZT
+21,"21- Art work, collectors pieces and antiques", 127 , -   , 263 ,2017,FZT
+1,"01- Live Animals, animals products"," 1,205 ", 4 , 646 ,2018,FZT
+2,02- Vegetable products ," 1,206 ", 181 , 538 ,2018,FZT
+3,"03- Animal and vegetable fats, oils and waxes", 72 , 29 , 29 ,2018,FZT
+4,04- Prepared Foodstuffs," 9,076 "," 4,736 "," 7,110 ",2018,FZT
+5,05- Mineral products ," 43,709 ", 709 ," 7,620 ",2018,FZT
+6,06- Products of chemical and allied industries," 16,223 "," 1,213 "," 12,691 ",2018,FZT
+7,"07- Plastics, rubber and articles thereof"," 7,072 "," 1,101 "," 4,079 ",2018,FZT
+8,"08- Raw hides, skins, leather and articles"," 1,714 ", 2 ," 1,111 ",2018,FZT
+9,"09- Wood and articles, cork and plating materials"," 1,071 ", 7 , 95 ,2018,FZT
+10,"10- Pulp of wood, paper products and waste paper"," 1,871 ", 326 , 594 ,2018,FZT
+11,11- Textiles and textile articles," 8,261 ", 217 ," 5,860 ",2018,FZT
+12,"12- Footwear, headgear and umbrellas"," 3,047 ", -   ," 2,281 ",2018,FZT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass"," 1,000 ", 121 , 475 ,2018,FZT
+14,"14- Pearls, precious stones and metals"," 30,489 ", 7 ," 27,994 ",2018,FZT
+15,15- Base metals and articles of base metals," 11,732 "," 2,106 "," 4,390 ",2018,FZT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 120,921 "," 4,207 "," 122,679 ",2018,FZT
+17,"17- Vehicles, aircraft and vessels"," 20,945 ", 191 ," 17,727 ",2018,FZT
+18,"18- Optical, medical equipments and watches"," 6,959 ", 180 ," 6,516 ",2018,FZT
+19,"19- Arms, ammunition, parts and accessories", 3 , -   , -   ,2018,FZT
+20,20- Miscellaneous manufactured articles not elsewhere classified," 3,999 ", 102 ," 2,778 ",2018,FZT
+21,"21- Art work, collectors pieces and antiques", 193 , -   , 360 ,2018,FZT
+1,"01- Live Animals, animals products"," 2,319 ", 34 ," 2,185 ",2019,FZT
+2,02- Vegetable products ," 1,077 ", 134 , 549 ,2019,FZT
+3,"03- Animal and vegetable fats, oils and waxes", 47 , 28 , 38 ,2019,FZT
+4,04- Prepared Foodstuffs," 9,098 "," 6,476 "," 5,829 ",2019,FZT
+5,05- Mineral products ," 44,004 "," 11,649 "," 18,806 ",2019,FZT
+6,06- Products of chemical and allied industries," 16,441 "," 1,272 "," 13,358 ",2019,FZT
+7,"07- Plastics, rubber and articles thereof"," 7,263 "," 1,031 "," 4,416 ",2019,FZT
+8,"08- Raw hides, skins, leather and articles"," 1,732 ", 40 ," 1,169 ",2019,FZT
+9,"09- Wood and articles, cork and plating materials", 790 , 5 , 99 ,2019,FZT
+10,"10- Pulp of wood, paper products and waste paper"," 1,936 ", 350 , 853 ,2019,FZT
+11,11- Textiles and textile articles," 8,357 ", 226 ," 6,025 ",2019,FZT
+12,"12- Footwear, headgear and umbrellas"," 3,674 ", 1 ," 2,707 ",2019,FZT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass"," 1,045 ", 98 , 524 ,2019,FZT
+14,"14- Pearls, precious stones and metals"," 37,988 ", 155 ," 31,847 ",2019,FZT
+15,15- Base metals and articles of base metals," 11,190 "," 1,655 "," 5,099 ",2019,FZT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 131,242 "," 4,084 "," 134,566 ",2019,FZT
+17,"17- Vehicles, aircraft and vessels"," 19,572 ", 145 ," 16,776 ",2019,FZT
+18,"18- Optical, medical equipments and watches"," 7,596 ", 135 ," 6,904 ",2019,FZT
+19,"19- Arms, ammunition, parts and accessories", 1 , -   , -   ,2019,FZT
+20,20- Miscellaneous manufactured articles not elsewhere classified," 4,156 ", 64 ," 2,472 ",2019,FZT
+21,"21- Art work, collectors pieces and antiques", 320 , 1 , 315 ,2019,FZT
+1,"01- Live Animals, animals products", 799 , 24 , 638 ,2020,FZT
+2,02- Vegetable products ," 1,524 ", 206 , 921 ,2020,FZT
+3,"03- Animal and vegetable fats, oils and waxes", 57 , 28 , 38 ,2020,FZT
+4,04- Prepared Foodstuffs," 9,301 "," 7,608 "," 5,397 ",2020,FZT
+5,05- Mineral products ," 22,689 "," 3,678 "," 8,217 ",2020,FZT
+6,06- Products of chemical and allied industries," 15,695 "," 1,199 "," 12,177 ",2020,FZT
+7,"07- Plastics, rubber and articles thereof"," 6,545 "," 1,006 "," 4,673 ",2020,FZT
+8,"08- Raw hides, skins, leather and articles"," 1,191 ", 26 , 885 ,2020,FZT
+9,"09- Wood and articles, cork and plating materials", 537 , 9 , 108 ,2020,FZT
+10,"10- Pulp of wood, paper products and waste paper"," 1,664 ", 406 , 653 ,2020,FZT
+11,11- Textiles and textile articles," 7,401 ", 276 ," 5,451 ",2020,FZT
+12,"12- Footwear, headgear and umbrellas"," 2,566 ", 2 ," 2,378 ",2020,FZT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass", 864 , 82 , 484 ,2020,FZT
+14,"14- Pearls, precious stones and metals"," 12,684 ", 183 ," 8,930 ",2020,FZT
+15,15- Base metals and articles of base metals," 8,957 "," 1,691 "," 3,669 ",2020,FZT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 123,714 "," 2,801 "," 127,431 ",2020,FZT
+17,"17- Vehicles, aircraft and vessels"," 14,206 ", 88 ," 13,599 ",2020,FZT
+18,"18- Optical, medical equipments and watches"," 6,233 ", 316 ," 5,808 ",2020,FZT
+19,"19- Arms, ammunition, parts and accessories", 2 , -   , -   ,2020,FZT
+20,20- Miscellaneous manufactured articles not elsewhere classified," 3,603 ", 64 ," 2,584 ",2020,FZT
+21,"21- Art work, collectors pieces and antiques", 120 , 2 , 87 ,2020,FZT
+1,"01- Live Animals, animals products", 11 , 3 , -   ,2012,CWT
+2,02- Vegetable products , -   , -   , -   ,2012,CWT
+3,"03- Animal and vegetable fats, oils and waxes", -   , -   , -   ,2012,CWT
+4,"04- Prepared Foodstuffs, beverages and tobacco", 380 , 379 , -   ,2012,CWT
+5,05- Mineral products , -   , -   , -   ,2012,CWT
+6,06- Products of chemical and allied industries, 117 , 82 , -   ,2012,CWT
+7,"07- Plastics, rubber and articles thereof", 166 , 102 , -   ,2012,CWT
+8,"08- Raw hides, skins, leather and articles", 8 , 14 , -   ,2012,CWT
+9,"09- Wood and articles, cork and plating materials", -   , -   , -   ,2012,CWT
+10,"10- Pulp of wood, paper products and waste paper", 2 , -   , -   ,2012,CWT
+11,11- Textiles and textile articles, 2 , 2 , -   ,2012,CWT
+12,"12- Footwear, headgear and umbrellas", -   , -   , -   ,2012,CWT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass", -   , -   , -   ,2012,CWT
+14,"14- Pearls, precious stones and metals", 5 , 1 , -   ,2012,CWT
+15,15- Base metals and articles of base metals, -   , -   , -   ,2012,CWT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 5,802 "," 1,791 ", -   ,2012,CWT
+17,"17- Vehicles, aircraft and vessels", 959 , -   , -   ,2012,CWT
+18,"18- Optical, medical equipments and watches", 145 , 69 , -   ,2012,CWT
+19,"19- Arms, ammunition, parts and accessories", -   , -   , -   ,2012,CWT
+20,20- Miscellaneous manufactured articles not elsewhere classified, 19 , 3 , -   ,2012,CWT
+21,"21- Art work, collectors pieces and antiques", -   , -   , -   ,2012,CWT
+1,"01- Live Animals, animals products", 9 , 3 , -   ,2013,CWT
+2,02- Vegetable products , -   , -   , -   ,2013,CWT
+3,"03- Animal and vegetable fats, oils and waxes", -   , -   , -   ,2013,CWT
+4,"04- Prepared Foodstuffs, beverages and tobacco", 545 , 587 , -   ,2013,CWT
+5,05- Mineral products , -   , -   , -   ,2013,CWT
+6,06- Products of chemical and allied industries, 66 , 58 , -   ,2013,CWT
+7,"07- Plastics, rubber and articles thereof", 204 , 119 , -   ,2013,CWT
+8,"08- Raw hides, skins, leather and articles", 19 , 14 , -   ,2013,CWT
+9,"09- Wood and articles, cork and plating materials", -   , -   , -   ,2013,CWT
+10,"10- Pulp of wood, paper products and waste paper", 9 , 6 , -   ,2013,CWT
+11,11- Textiles and textile articles, 9 , 9 , -   ,2013,CWT
+12,"12- Footwear, headgear and umbrellas", -   , -   , -   ,2013,CWT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass", -   , -   , -   ,2013,CWT
+14,"14- Pearls, precious stones and metals", 21 , 19 , -   ,2013,CWT
+15,15- Base metals and articles of base metals, -   , -   , -   ,2013,CWT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 10,267 "," 1,518 ", -   ,2013,CWT
+17,"17- Vehicles, aircraft and vessels"," 2,255 ", 16 , -   ,2013,CWT
+18,"18- Optical, medical equipments and watches", 135 , 82 , -   ,2013,CWT
+19,"19- Arms, ammunition, parts and accessories", -   , -   , -   ,2013,CWT
+20,20- Miscellaneous manufactured articles not elsewhere classified, 23 , 16 , -   ,2013,CWT
+21,"21- Art work, collectors pieces and antiques", -   , -   , -   ,2013,CWT
+1,"01- Live Animals, animals products", 37 , 12 , -   ,2014,CWT
+2,02- Vegetable products , -   , -   , -   ,2014,CWT
+3,"03- Animal and vegetable fats, oils and waxes", -   , -   , -   ,2014,CWT
+4,"04- Prepared Foodstuffs, beverages and tobacco", 599 , 604 , -   ,2014,CWT
+5,05- Mineral products , -   , -   , -   ,2014,CWT
+6,06- Products of chemical and allied industries, 57 , 56 , -   ,2014,CWT
+7,"07- Plastics, rubber and articles thereof", 233 , 106 , -   ,2014,CWT
+8,"08- Raw hides, skins, leather and articles", 14 , 7 , -   ,2014,CWT
+9,"09- Wood and articles, cork and plating materials", 1 , -   , -   ,2014,CWT
+10,"10- Pulp of wood, paper products and waste paper", 44 , 9 , -   ,2014,CWT
+11,11- Textiles and textile articles, 11 , 4 , -   ,2014,CWT
+12,"12- Footwear, headgear and umbrellas", -   , -   , -   ,2014,CWT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass", -   , -   , -   ,2014,CWT
+14,"14- Pearls, precious stones and metals", 19 , 20 , -   ,2014,CWT
+15,15- Base metals and articles of base metals, 1 , -   , -   ,2014,CWT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 17,710 ", 319 , -   ,2014,CWT
+17,"17- Vehicles, aircraft and vessels"," 3,652 ", 6 , -   ,2014,CWT
+18,"18- Optical, medical equipments and watches", 139 , 83 , -   ,2014,CWT
+19,"19- Arms, ammunition, parts and accessories", -   , -   , -   ,2014,CWT
+20,20- Miscellaneous manufactured articles not elsewhere classified, 67 , 26 , -   ,2014,CWT
+21,"21- Art work, collectors pieces and antiques", -   , -   , -   ,2014,CWT
+1,"01- Live Animals, animals products", 8 , 10 , -   ,2015,CWT
+2,02- Vegetable products , -   , -   , -   ,2015,CWT
+3,"03- Animal and vegetable fats, oils and waxes", -   , -   , -   ,2015,CWT
+4,04- Prepared Foodstuffs, 607 , 620 , -   ,2015,CWT
+5,05- Mineral products , 1 , -   , -   ,2015,CWT
+6,06- Products of chemical and allied industries, 169 , 73 , -   ,2015,CWT
+7,"07- Plastics, rubber and articles thereof", 175 , 99 , -   ,2015,CWT
+8,"08- Raw hides, skins, leather and articles", 17 , 8 , -   ,2015,CWT
+9,"09- Wood and articles, cork and plating materials", 1 , -   , -   ,2015,CWT
+10,"10- Pulp of wood, paper products and waste paper", 93 , 11 , -   ,2015,CWT
+11,11- Textiles and textile articles, 15 , 7 , -   ,2015,CWT
+12,"12- Footwear, headgear and umbrellas", 1 , -   , -   ,2015,CWT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass", 1 , -   , -   ,2015,CWT
+14,"14- Pearls, precious stones and metals", 24 , 22 , -   ,2015,CWT
+15,15- Base metals and articles of base metals, 6 , 1 , -   ,2015,CWT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 24,560 ", 287 , -   ,2015,CWT
+17,"17- Vehicles, aircraft and vessels"," 5,759 ", 17 , -   ,2015,CWT
+18,"18- Optical, medical equipments and watches", 164 , 73 , -   ,2015,CWT
+19,"19- Arms, ammunition, parts and accessories", -   , -   , -   ,2015,CWT
+20,20- Miscellaneous manufactured articles not elsewhere classified, 257 , 40 , -   ,2015,CWT
+21,"21- Art work, collectors pieces and antiques", 29 , 1 , -   ,2015,CWT
+1,"01- Live Animals, animals products", 1 , 1 , -   ,2016,CWT
+2,02- Vegetable products , -   , -   , -   ,2016,CWT
+3,"03- Animal and vegetable fats, oils and waxes", -   , -   , -   ,2016,CWT
+4,04- Prepared Foodstuffs, 604 , 560 , -   ,2016,CWT
+5,05- Mineral products , 2 , -   , -   ,2016,CWT
+6,06- Products of chemical and allied industries, 295 , 53 , -   ,2016,CWT
+7,"07- Plastics, rubber and articles thereof", 133 , 81 , -   ,2016,CWT
+8,"08- Raw hides, skins, leather and articles", 31 , 9 , -   ,2016,CWT
+9,"09- Wood and articles, cork and plating materials", 3 , 1 , -   ,2016,CWT
+10,"10- Pulp of wood, paper products and waste paper", 125 , 77 , -   ,2016,CWT
+11,11- Textiles and textile articles, 51 , 17 , -   ,2016,CWT
+12,"12- Footwear, headgear and umbrellas", 3 , 1 , -   ,2016,CWT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass", 3 , -   , -   ,2016,CWT
+14,"14- Pearls, precious stones and metals", 15 , 16 , -   ,2016,CWT
+15,15- Base metals and articles of base metals, 27 , 1 , -   ,2016,CWT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 25,834 ", 426 , -   ,2016,CWT
+17,"17- Vehicles, aircraft and vessels"," 5,619 ", 250 , -   ,2016,CWT
+18,"18- Optical, medical equipments and watches", 148 , 69 , -   ,2016,CWT
+19,"19- Arms, ammunition, parts and accessories", -   , -   , -   ,2016,CWT
+20,20- Miscellaneous manufactured articles not elsewhere classified, 271 , 26 , -   ,2016,CWT
+21,"21- Art work, collectors pieces and antiques", -   , -   , -   ,2016,CWT
+1,"01- Live Animals, animals products", 1 , -   , -   ,2018,CWT
+2,02- Vegetable products , -   , -   , -   ,2018,CWT
+3,"03- Animal and vegetable fats, oils and waxes", -   , -   , -   ,2018,CWT
+4,04- Prepared Foodstuffs, 122 , 97 , -   ,2018,CWT
+5,05- Mineral products , 3 , -   , -   ,2018,CWT
+6,06- Products of chemical and allied industries, 63 , 62 , -   ,2018,CWT
+7,"07- Plastics, rubber and articles thereof", 20 , 5 , -   ,2018,CWT
+8,"08- Raw hides, skins, leather and articles", 13 , 11 , -   ,2018,CWT
+9,"09- Wood and articles, cork and plating materials", 1 , 1 , -   ,2018,CWT
+10,"10- Pulp of wood, paper products and waste paper", 3 , 2 , -   ,2018,CWT
+11,11- Textiles and textile articles, 99 , 12 , -   ,2018,CWT
+12,"12- Footwear, headgear and umbrellas", 7 , 1 , -   ,2018,CWT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass", 4 , 2 , -   ,2018,CWT
+14,"14- Pearls, precious stones and metals", 17 , 20 , -   ,2018,CWT
+15,15- Base metals and articles of base metals, 6 , 14 , -   ,2018,CWT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 1,359 ", 873 , -   ,2018,CWT
+17,"17- Vehicles, aircraft and vessels"," 6,750 ", 574 , -   ,2018,CWT
+18,"18- Optical, medical equipments and watches", 137 , 94 , -   ,2018,CWT
+19,"19- Arms, ammunition, parts and accessories", -   , -   , -   ,2018,CWT
+20,20- Miscellaneous manufactured articles not elsewhere classified, 14 , 15 , -   ,2018,CWT
+21,"21- Art work, collectors pieces and antiques", -   , -   , -   ,2018,CWT
+1,"01- Live Animals, animals products", -   , -   , -   ,2019,CWT
+2,02- Vegetable products , -   , -   , -   ,2019,CWT
+3,"03- Animal and vegetable fats, oils and waxes", -   , -   , -   ,2019,CWT
+4,04- Prepared Foodstuffs, 87 , 10 , -   ,2019,CWT
+5,05- Mineral products , 4 , 1 , -   ,2019,CWT
+6,06- Products of chemical and allied industries, 29 , 33 , -   ,2019,CWT
+7,"07- Plastics, rubber and articles thereof", 17 , 3 , -   ,2019,CWT
+8,"08- Raw hides, skins, leather and articles", 7 , 4 , -   ,2019,CWT
+9,"09- Wood and articles, cork and plating materials", 1 , -   , -   ,2019,CWT
+10,"10- Pulp of wood, paper products and waste paper", 3 , 3 , -   ,2019,CWT
+11,11- Textiles and textile articles, 105 , 27 , -   ,2019,CWT
+12,"12- Footwear, headgear and umbrellas", 10 , 1 , -   ,2019,CWT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass", 4 , 1 , -   ,2019,CWT
+14,"14- Pearls, precious stones and metals", 8 , 9 , -   ,2019,CWT
+15,15- Base metals and articles of base metals, 5 , 2 , -   ,2019,CWT
+16,"16- Machinery, sound recorders, TV and electrical equipment", 919 , 743 , -   ,2019,CWT
+17,"17- Vehicles, aircraft and vessels"," 5,486 "," 1,176 ", -   ,2019,CWT
+18,"18- Optical, medical equipments and watches", 141 , 105 , -   ,2019,CWT
+19,"19- Arms, ammunition, parts and accessories", -   , -   , -   ,2019,CWT
+20,20- Miscellaneous manufactured articles not elsewhere classified, 6 , 6 , -   ,2019,CWT
+21,"21- Art work, collectors pieces and antiques", -   , -   , -   ,2019,CWT
+1,"01- Live Animals, animals products", 2 , -   , -   ,2020,CWT
+2,02- Vegetable products , -   , -   , -   ,2020,CWT
+3,"03- Animal and vegetable fats, oils and waxes", -   , -   , -   ,2020,CWT
+4,04- Prepared Foodstuffs, 53 , 5 , -   ,2020,CWT
+5,05- Mineral products , 2 , -   , -   ,2020,CWT
+6,06- Products of chemical and allied industries, 11 , 4 , -   ,2020,CWT
+7,"07- Plastics, rubber and articles thereof", 19 , 2 , -   ,2020,CWT
+8,"08- Raw hides, skins, leather and articles", 37 , 5 , -   ,2020,CWT
+9,"09- Wood and articles, cork and plating materials", -   , -   , -   ,2020,CWT
+10,"10- Pulp of wood, paper products and waste paper", 1 , -   , -   ,2020,CWT
+11,11- Textiles and textile articles, 83 , 20 , -   ,2020,CWT
+12,"12- Footwear, headgear and umbrellas", 12 , 2 , -   ,2020,CWT
+13,"13- Articles of stone, cement, asbestos, ceramics and glass", 2 , -   , -   ,2020,CWT
+14,"14- Pearls, precious stones and metals", 1 , -   , -   ,2020,CWT
+15,15- Base metals and articles of base metals, 38 , 2 , -   ,2020,CWT
+16,"16- Machinery, sound recorders, TV and electrical equipment"," 1,090 ", 920 , -   ,2020,CWT
+17,"17- Vehicles, aircraft and vessels"," 3,598 ", 768 , -   ,2020,CWT
+18,"18- Optical, medical equipments and watches", 81 , 48 , -   ,2020,CWT
+19,"19- Arms, ammunition, parts and accessories", -   , -   , -   ,2020,CWT
+20,20- Miscellaneous manufactured articles not elsewhere classified, 31 , 25 , -   ,2020,CWT
+21,"21- Art work, collectors pieces and antiques", -   , -   , -   ,2020,CWT

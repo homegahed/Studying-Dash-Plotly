@@ -1,0 +1,351 @@
+serial,codes,items,abrev,year,trade,imports,exports,reexports,total
+1,1,"Live Animals, animals products",Live animals,2012,DFT,7769,1132,675,9576
+1,1,"Live Animals, animals products",Live animals,2013,DFT,8449,1257,879,10585
+1,1,"Live Animals, animals products",Live animals,2014,DFT,9238,1273,922,11433
+1,1,"Live Animals, animals products",Live animals,2015,DFT,8760,1333,941,11034
+1,1,"Live Animals, animals products",Live animals,2016,DFT,7586,1309,711,9606
+1,1,"Live Animals, animals products",Live animals,2017,DFT,8142,1198,643,9983
+1,1,"Live Animals, animals products",Live animals,2018,DFT,8961,1229,1056,11246
+1,1,"Live Animals, animals products",Live animals,2019,DFT,8713,1127,979,10819
+1,1,"Live Animals, animals products",Live animals,2020,DFT,8016,825,1011,9852
+1,1,"Live Animals, animals products",Live animals,2012,FZT,237,4,65,306
+1,1,"Live Animals, animals products",Live animals,2013,FZT,344,8,167,519
+1,1,"Live Animals, animals products",Live animals,2014,FZT,583,5,265,853
+1,1,"Live Animals, animals products",Live animals,2015,FZT,499,6,182,687
+1,1,"Live Animals, animals products",Live animals,2016,FZT,557,11,134,702
+1,1,"Live Animals, animals products",Live animals,2017,FZT,916,10,166,1092
+1,1,"Live Animals, animals products",Live animals,2018,FZT,1205,4,646,1855
+1,1,"Live Animals, animals products",Live animals,2019,FZT,2319,34,2185,4538
+1,1,"Live Animals, animals products",Live animals,2020,FZT,799,24,638,1461
+2,2,Vegetable products ,Vegetables,2012,DFT,18112,438,4946,23496
+2,2,Vegetable products ,Vegetables,2013,DFT,19619,729,5080,25428
+2,2,Vegetable products ,Vegetables,2014,DFT,21337,801,5368,27506
+2,2,Vegetable products ,Vegetables,2015,DFT,22839,929,6699,30467
+2,2,Vegetable products ,Vegetables,2016,DFT,21675,926,5824,28425
+2,2,Vegetable products ,Vegetables,2017,DFT,21241,1020,5299,27560
+2,2,Vegetable products ,Vegetables,2018,DFT,18373,1356,5082,24811
+2,2,Vegetable products ,Vegetables,2019,DFT,17830,1515,5166,24511
+2,2,Vegetable products ,Vegetables,2020,DFT,17899,1618,4486,24003
+2,2,Vegetable products ,Vegetables,2012,FZT,831,156,289,1276
+2,2,Vegetable products ,Vegetables,2013,FZT,1014,185,399,1598
+2,2,Vegetable products ,Vegetables,2014,FZT,935,203,418,1556
+2,2,Vegetable products ,Vegetables,2015,FZT,1098,309,366,1773
+2,2,Vegetable products ,Vegetables,2016,FZT,820,211,264,1295
+2,2,Vegetable products ,Vegetables,2017,FZT,1074,199,399,1672
+2,2,Vegetable products ,Vegetables,2018,FZT,1206,181,538,1925
+2,2,Vegetable products ,Vegetables,2019,FZT,1077,134,549,1760
+2,2,Vegetable products ,Vegetables,2020,FZT,1524,206,921,2651
+3,3,"Animal and vegetable fats, oils and waxes",Oils,2012,DFT,1012,768,94,1874
+3,3,"Animal and vegetable fats, oils and waxes",Oils,2013,DFT,786,802,96,1684
+3,3,"Animal and vegetable fats, oils and waxes",Oils,2014,DFT,890,1004,92,1986
+3,3,"Animal and vegetable fats, oils and waxes",Oils,2015,DFT,890,729,159,1778
+3,3,"Animal and vegetable fats, oils and waxes",Oils,2016,DFT,885,595,246,1726
+3,3,"Animal and vegetable fats, oils and waxes",Oils,2017,DFT,1061,598,184,1843
+3,3,"Animal and vegetable fats, oils and waxes",Oils,2018,DFT,973,680,78,1731
+3,3,"Animal and vegetable fats, oils and waxes",Oils,2019,DFT,879,1165,79,2123
+3,3,"Animal and vegetable fats, oils and waxes",Oils,2020,DFT,913,1857,70,2840
+3,3,"Animal and vegetable fats, oils and waxes",Oils,2012,FZT,224,265,12,501
+3,3,"Animal and vegetable fats, oils and waxes",Oils,2013,FZT,195,146,36,377
+3,3,"Animal and vegetable fats, oils and waxes",Oils,2014,FZT,167,86,51,304
+3,3,"Animal and vegetable fats, oils and waxes",Oils,2015,FZT,88,47,22,157
+3,3,"Animal and vegetable fats, oils and waxes",Oils,2016,FZT,56,35,16,107
+3,3,"Animal and vegetable fats, oils and waxes",Oils,2017,FZT,82,48,12,142
+3,3,"Animal and vegetable fats, oils and waxes",Oils,2018,FZT,72,29,29,130
+3,3,"Animal and vegetable fats, oils and waxes",Oils,2019,FZT,47,28,38,113
+3,3,"Animal and vegetable fats, oils and waxes",Oils,2020,FZT,57,28,38,123
+4,4,"Prepared Foodstuffs, beverages and tobacco",Food Baverage,2012,DFT,11753,5531,3124,20408
+4,4,"Prepared Foodstuffs, beverages and tobacco",Food Baverage,2013,DFT,11778,6372,3444,21594
+4,4,"Prepared Foodstuffs, beverages and tobacco",Food Baverage,2014,DFT,13614,6569,4057,24240
+4,4,"Prepared Foodstuffs, beverages and tobacco",Food Baverage,2015,DFT,13634,6217,4933,24784
+4,4,"Prepared Foodstuffs, beverages and tobacco",Food Baverage,2016,DFT,13524,6919,4420,24863
+4,4,"Prepared Foodstuffs, beverages and tobacco",Food Baverage,2017,DFT,13485,8735,3312,25532
+4,4,"Prepared Foodstuffs, beverages and tobacco",Food Baverage,2018,DFT,12431,6378,2387,21196
+4,4,"Prepared Foodstuffs, beverages and tobacco",Food Baverage,2019,DFT,12009,6446,2441,20896
+4,4,"Prepared Foodstuffs, beverages and tobacco",Food Baverage,2020,DFT,10785,8955,1956,21696
+4,4,"Prepared Foodstuffs, beverages and tobacco",Food Baverage,2012,FZT,8166,2554,4456,15176
+4,4,"Prepared Foodstuffs, beverages and tobacco",Food Baverage,2013,FZT,7900,2771,4994,15665
+4,4,"Prepared Foodstuffs, beverages and tobacco",Food Baverage,2014,FZT,10567,2871,6509,19947
+4,4,"Prepared Foodstuffs, beverages and tobacco",Food Baverage,2015,FZT,9795,3570,6947,20312
+4,4,"Prepared Foodstuffs, beverages and tobacco",Food Baverage,2016,FZT,10461,4247,6948,21656
+4,4,"Prepared Foodstuffs, beverages and tobacco",Food Baverage,2017,FZT,13010,4590,7547,25147
+4,4,"Prepared Foodstuffs, beverages and tobacco",Food Baverage,2018,FZT,9076,4736,7110,20922
+4,4,"Prepared Foodstuffs, beverages and tobacco",Food Baverage,2019,FZT,9098,6476,5829,21403
+4,4,"Prepared Foodstuffs, beverages and tobacco",Food Baverage,2020,FZT,9301,7608,5397,22306
+5,5,Mineral products ,Minerals,2012,DFT,5280,3102,566,8948
+5,5,Mineral products ,Minerals,2013,DFT,6186,3773,687,10646
+5,5,Mineral products ,Minerals,2014,DFT,5699,3956,483,10138
+5,5,Mineral products ,Minerals,2015,DFT,5081,3492,489,9062
+5,5,Mineral products ,Minerals,2016,DFT,9351,3381,380,13112
+5,5,Mineral products ,Minerals,2017,DFT,9573,3778,469,13820
+5,5,Mineral products ,Minerals,2018,DFT,11300,3952,297,15549
+5,5,Mineral products ,Minerals,2019,DFT,22555,4148,354,27057
+5,5,Mineral products ,Minerals,2020,DFT,28665,3987,357,33009
+5,5,Mineral products ,Minerals,2012,FZT,16700,1648,14545,32893
+5,5,Mineral products ,Minerals,2013,FZT,15489,946,12677,29112
+5,5,Mineral products ,Minerals,2014,FZT,19336,1169,12688,33193
+5,5,Mineral products ,Minerals,2015,FZT,15455,675,9926,26056
+5,5,Mineral products ,Minerals,2016,FZT,19232,507,9904,29643
+5,5,Mineral products ,Minerals,2017,FZT,19448,595,12224,32267
+5,5,Mineral products ,Minerals,2018,FZT,43709,709,7620,52038
+5,5,Mineral products ,Minerals,2019,FZT,44004,11649,18806,74459
+5,5,Mineral products ,Minerals,2020,FZT,22689,3678,8217,34584
+6,6,Products of chemical and allied industries,Chemicals,2012,DFT,24971,3024,3437,31432
+6,6,Products of chemical and allied industries,Chemicals,2013,DFT,27725,3349,3436,34510
+6,6,Products of chemical and allied industries,Chemicals,2014,DFT,30482,3881,3460,37823
+6,6,Products of chemical and allied industries,Chemicals,2015,DFT,29275,4480,3435,37190
+6,6,Products of chemical and allied industries,Chemicals,2016,DFT,27800,4457,3361,35618
+6,6,Products of chemical and allied industries,Chemicals,2017,DFT,28416,3935,3070,35421
+6,6,Products of chemical and allied industries,Chemicals,2018,DFT,26549,5099,3253,34901
+6,6,Products of chemical and allied industries,Chemicals,2019,DFT,27458,7630,3416,38504
+6,6,Products of chemical and allied industries,Chemicals,2020,DFT,24197,6607,3358,34162
+6,6,Products of chemical and allied industries,Chemicals,2012,FZT,12598,845,9429,22872
+6,6,Products of chemical and allied industries,Chemicals,2013,FZT,16021,643,11523,28187
+6,6,Products of chemical and allied industries,Chemicals,2014,FZT,17113,826,12386,30325
+6,6,Products of chemical and allied industries,Chemicals,2015,FZT,15896,1104,11663,28663
+6,6,Products of chemical and allied industries,Chemicals,2016,FZT,16114,1076,11515,28705
+6,6,Products of chemical and allied industries,Chemicals,2017,FZT,16304,1259,11033,28596
+6,6,Products of chemical and allied industries,Chemicals,2018,FZT,16223,1213,12691,30127
+6,6,Products of chemical and allied industries,Chemicals,2019,FZT,16441,1272,13358,31071
+6,6,Products of chemical and allied industries,Chemicals,2020,FZT,15695,1199,12177,29071
+7,7,"Plastics, rubber and articles thereof",Plastic Ruber,2012,DFT,12299,5300,3165,20764
+7,7,"Plastics, rubber and articles thereof",Plastic Ruber,2013,DFT,12790,5412,3880,22082
+7,7,"Plastics, rubber and articles thereof",Plastic Ruber,2014,DFT,14541,4660,4242,23443
+7,7,"Plastics, rubber and articles thereof",Plastic Ruber,2015,DFT,13441,4872,3700,22013
+7,7,"Plastics, rubber and articles thereof",Plastic Ruber,2016,DFT,12304,4782,3540,20626
+7,7,"Plastics, rubber and articles thereof",Plastic Ruber,2017,DFT,12601,4225,3261,20087
+7,7,"Plastics, rubber and articles thereof",Plastic Ruber,2018,DFT,12730,3848,2948,19526
+7,7,"Plastics, rubber and articles thereof",Plastic Ruber,2019,DFT,12391,4452,3697,20540
+7,7,"Plastics, rubber and articles thereof",Plastic Ruber,2020,DFT,11125,5034,2963,19122
+7,7,"Plastics, rubber and articles thereof",Plastic Ruber,2012,FZT,5830,1021,2866,9717
+7,7,"Plastics, rubber and articles thereof",Plastic Ruber,2013,FZT,5890,954,3162,10006
+7,7,"Plastics, rubber and articles thereof",Plastic Ruber,2014,FZT,6207,984,3194,10385
+7,7,"Plastics, rubber and articles thereof",Plastic Ruber,2015,FZT,5360,894,2692,8946
+7,7,"Plastics, rubber and articles thereof",Plastic Ruber,2016,FZT,5976,1289,2915,10180
+7,7,"Plastics, rubber and articles thereof",Plastic Ruber,2017,FZT,6762,1124,3655,11541
+7,7,"Plastics, rubber and articles thereof",Plastic Ruber,2018,FZT,7072,1101,4079,12252
+7,7,"Plastics, rubber and articles thereof",Plastic Ruber,2019,FZT,7263,1031,4416,12710
+7,7,"Plastics, rubber and articles thereof",Plastic Ruber,2020,FZT,6545,1006,4673,12224
+8,8,"Raw hides, skins, leather and articles",Leather,2012,DFT,3101,20,539,3660
+8,8,"Raw hides, skins, leather and articles",Leather,2013,DFT,3654,31,579,4264
+8,8,"Raw hides, skins, leather and articles",Leather,2014,DFT,3802,32,459,4293
+8,8,"Raw hides, skins, leather and articles",Leather,2015,DFT,3463,20,461,3944
+8,8,"Raw hides, skins, leather and articles",Leather,2016,DFT,3142,15,426,3583
+8,8,"Raw hides, skins, leather and articles",Leather,2017,DFT,3101,18,300,3419
+8,8,"Raw hides, skins, leather and articles",Leather,2018,DFT,3044,25,339,3408
+8,8,"Raw hides, skins, leather and articles",Leather,2019,DFT,2896,24,401,3321
+8,8,"Raw hides, skins, leather and articles",Leather,2020,DFT,1980,17,282,2279
+8,8,"Raw hides, skins, leather and articles",Leather,2012,FZT,1199,1,551,1751
+8,8,"Raw hides, skins, leather and articles",Leather,2013,FZT,1432,2,657,2091
+8,8,"Raw hides, skins, leather and articles",Leather,2014,FZT,1644,2,715,2361
+8,8,"Raw hides, skins, leather and articles",Leather,2015,FZT,1603,1,766,2370
+8,8,"Raw hides, skins, leather and articles",Leather,2016,FZT,1621,1,847,2469
+8,8,"Raw hides, skins, leather and articles",Leather,2017,FZT,1734,1,955,2690
+8,8,"Raw hides, skins, leather and articles",Leather,2018,FZT,1714,2,1111,2827
+8,8,"Raw hides, skins, leather and articles",Leather,2019,FZT,1732,40,1169,2941
+8,8,"Raw hides, skins, leather and articles",Leather,2020,FZT,1191,26,885,2102
+9,9,"Wood and articles, cork and plating materials",Wood,2012,DFT,2892,49,633,3574
+9,9,"Wood and articles, cork and plating materials",Wood,2013,DFT,2704,66,700,3470
+9,9,"Wood and articles, cork and plating materials",Wood,2014,DFT,3389,70,846,4305
+9,9,"Wood and articles, cork and plating materials",Wood,2015,DFT,3377,70,763,4210
+9,9,"Wood and articles, cork and plating materials",Wood,2016,DFT,3113,62,585,3760
+9,9,"Wood and articles, cork and plating materials",Wood,2017,DFT,3345,80,438,3863
+9,9,"Wood and articles, cork and plating materials",Wood,2018,DFT,3451,60,362,3873
+9,9,"Wood and articles, cork and plating materials",Wood,2019,DFT,2844,50,353,3247
+9,9,"Wood and articles, cork and plating materials",Wood,2020,DFT,2255,47,392,2694
+9,9,"Wood and articles, cork and plating materials",Wood,2012,FZT,686,16,69,771
+9,9,"Wood and articles, cork and plating materials",Wood,2013,FZT,692,29,79,800
+9,9,"Wood and articles, cork and plating materials",Wood,2014,FZT,1024,13,76,1113
+9,9,"Wood and articles, cork and plating materials",Wood,2015,FZT,995,14,83,1092
+9,9,"Wood and articles, cork and plating materials",Wood,2016,FZT,886,7,88,981
+9,9,"Wood and articles, cork and plating materials",Wood,2017,FZT,953,8,79,1040
+9,9,"Wood and articles, cork and plating materials",Wood,2018,FZT,1071,7,95,1173
+9,9,"Wood and articles, cork and plating materials",Wood,2019,FZT,790,5,99,894
+9,9,"Wood and articles, cork and plating materials",Wood,2020,FZT,537,9,108,654
+10,10,"Pulp of wood, paper products and waste paper",Paper,2012,DFT,4481,2302,456,7239
+10,10,"Pulp of wood, paper products and waste paper",Paper,2013,DFT,4270,3805,437,8512
+10,10,"Pulp of wood, paper products and waste paper",Paper,2014,DFT,4004,3276,533,7813
+10,10,"Pulp of wood, paper products and waste paper",Paper,2015,DFT,3980,3405,603,7988
+10,10,"Pulp of wood, paper products and waste paper",Paper,2016,DFT,3629,4602,479,8710
+10,10,"Pulp of wood, paper products and waste paper",Paper,2017,DFT,3842,2998,397,7237
+10,10,"Pulp of wood, paper products and waste paper",Paper,2018,DFT,4195,2701,553,7449
+10,10,"Pulp of wood, paper products and waste paper",Paper,2019,DFT,4159,2286,732,7177
+10,10,"Pulp of wood, paper products and waste paper",Paper,2020,DFT,3520,2512,924,6956
+10,10,"Pulp of wood, paper products and waste paper",Paper,2012,FZT,1093,150,271,1514
+10,10,"Pulp of wood, paper products and waste paper",Paper,2013,FZT,1333,184,407,1924
+10,10,"Pulp of wood, paper products and waste paper",Paper,2014,FZT,1681,220,570,2471
+10,10,"Pulp of wood, paper products and waste paper",Paper,2015,FZT,1665,252,469,2386
+10,10,"Pulp of wood, paper products and waste paper",Paper,2016,FZT,1716,246,424,2386
+10,10,"Pulp of wood, paper products and waste paper",Paper,2017,FZT,1669,237,488,2394
+10,10,"Pulp of wood, paper products and waste paper",Paper,2018,FZT,1871,326,594,2791
+10,10,"Pulp of wood, paper products and waste paper",Paper,2019,FZT,1936,350,853,3139
+10,10,"Pulp of wood, paper products and waste paper",Paper,2020,FZT,1664,406,653,2723
+11,11,Textiles and textile articles,Textiles,2012,DFT,20295,990,5531,26816
+11,11,Textiles and textile articles,Textiles,2013,DFT,21962,1141,7018,30121
+11,11,Textiles and textile articles,Textiles,2014,DFT,24105,1171,6567,31843
+11,11,Textiles and textile articles,Textiles,2015,DFT,22917,1256,6377,30550
+11,11,Textiles and textile articles,Textiles,2016,DFT,20148,996,7166,28310
+11,11,Textiles and textile articles,Textiles,2017,DFT,18586,1082,6754,26422
+11,11,Textiles and textile articles,Textiles,2018,DFT,15755,1316,4951,22022
+11,11,Textiles and textile articles,Textiles,2019,DFT,15785,1338,5431,22554
+11,11,Textiles and textile articles,Textiles,2020,DFT,12350,1320,3559,17229
+11,11,Textiles and textile articles,Textiles,2012,FZT,6883,401,2967,10251
+11,11,Textiles and textile articles,Textiles,2013,FZT,8355,336,4515,13206
+11,11,Textiles and textile articles,Textiles,2014,FZT,9702,262,4775,14739
+11,11,Textiles and textile articles,Textiles,2015,FZT,10239,279,5660,16178
+11,11,Textiles and textile articles,Textiles,2016,FZT,9126,193,4819,14138
+11,11,Textiles and textile articles,Textiles,2017,FZT,8648,194,4704,13546
+11,11,Textiles and textile articles,Textiles,2018,FZT,8261,217,5860,14338
+11,11,Textiles and textile articles,Textiles,2019,FZT,8357,226,6025,14608
+11,11,Textiles and textile articles,Textiles,2020,FZT,7401,276,5451,13128
+12,12,"Footwear, headgear and umbrellas",Footwear,2012,DFT,3482,29,517,4028
+12,12,"Footwear, headgear and umbrellas",Footwear,2013,DFT,4130,30,581,4741
+12,12,"Footwear, headgear and umbrellas",Footwear,2014,DFT,4723,30,646,5399
+12,12,"Footwear, headgear and umbrellas",Footwear,2015,DFT,5295,31,776,6102
+12,12,"Footwear, headgear and umbrellas",Footwear,2016,DFT,4526,28,849,5403
+12,12,"Footwear, headgear and umbrellas",Footwear,2017,DFT,4177,33,728,4938
+12,12,"Footwear, headgear and umbrellas",Footwear,2018,DFT,3775,48,659,4482
+12,12,"Footwear, headgear and umbrellas",Footwear,2019,DFT,3826,71,809,4706
+12,12,"Footwear, headgear and umbrellas",Footwear,2020,DFT,2878,32,568,3478
+12,12,"Footwear, headgear and umbrellas",Footwear,2015,FZT,3928,1,1948,5877
+12,12,"Footwear, headgear and umbrellas",Footwear,2019,FZT,3674,1,2707,6382
+12,12,"Footwear, headgear and umbrellas",Footwear,2020,FZT,2566,2,2378,4946
+13,13,"Articles of stone, cement, asbestos, ceramics and glass",Cement,2012,DFT,4390,2380,1551,8321
+13,13,"Articles of stone, cement, asbestos, ceramics and glass",Cement,2013,DFT,4521,2426,1527,8474
+13,13,"Articles of stone, cement, asbestos, ceramics and glass",Cement,2014,DFT,5088,2600,1654,9342
+13,13,"Articles of stone, cement, asbestos, ceramics and glass",Cement,2015,DFT,5165,2286,1455,8906
+13,13,"Articles of stone, cement, asbestos, ceramics and glass",Cement,2016,DFT,4955,2395,1501,8851
+13,13,"Articles of stone, cement, asbestos, ceramics and glass",Cement,2017,DFT,4928,2274,1420,8622
+13,13,"Articles of stone, cement, asbestos, ceramics and glass",Cement,2018,DFT,4675,2345,1049,8069
+13,13,"Articles of stone, cement, asbestos, ceramics and glass",Cement,2019,DFT,4714,1938,873,7525
+13,13,"Articles of stone, cement, asbestos, ceramics and glass",Cement,2020,DFT,3876,1819,643,6338
+13,13,"Articles of stone, cement, asbestos, ceramics and glass",Cement,2012,FZT,1430,95,977,2502
+13,13,"Articles of stone, cement, asbestos, ceramics and glass",Cement,2013,FZT,1502,128,986,2616
+13,13,"Articles of stone, cement, asbestos, ceramics and glass",Cement,2014,FZT,1603,144,942,2689
+13,13,"Articles of stone, cement, asbestos, ceramics and glass",Cement,2015,FZT,1300,121,678,2099
+13,13,"Articles of stone, cement, asbestos, ceramics and glass",Cement,2016,FZT,1103,106,514,1723
+13,13,"Articles of stone, cement, asbestos, ceramics and glass",Cement,2017,FZT,1118,91,465,1674
+13,13,"Articles of stone, cement, asbestos, ceramics and glass",Cement,2018,FZT,1000,121,475,1596
+13,13,"Articles of stone, cement, asbestos, ceramics and glass",Cement,2019,FZT,1045,98,524,1667
+13,13,"Articles of stone, cement, asbestos, ceramics and glass",Cement,2020,FZT,864,82,484,1430
+14,14,"Pearls, precious stones and metals",Precious stones,2012,DFT,192503,108249,69067,369819
+14,14,"Pearls, precious stones and metals",Precious stones,2013,DFT,210545,79880,69785,360210
+14,14,"Pearls, precious stones and metals",Precious stones,2014,DFT,170184,44868,62345,277397
+14,14,"Pearls, precious stones and metals",Precious stones,2015,DFT,142366,61159,59292,262817
+14,14,"Pearls, precious stones and metals",Precious stones,2016,DFT,172840,71086,62880,306806
+14,14,"Pearls, precious stones and metals",Precious stones,2017,DFT,178164,63778,73169,315111
+14,14,"Pearls, precious stones and metals",Precious stones,2018,DFT,170391,47343,76813,294547
+14,14,"Pearls, precious stones and metals",Precious stones,2019,DFT,173576,61297,70005,304878
+14,14,"Pearls, precious stones and metals",Precious stones,2020,DFT,177253,82568,46900,306721
+14,14,"Pearls, precious stones and metals",Precious stones,2018,FZT,30489,7,27994,58490
+14,14,"Pearls, precious stones and metals",Precious stones,2019,FZT,37988,155,31847,69990
+14,14,"Pearls, precious stones and metals",Precious stones,2020,FZT,12684,183,8930,21797
+15,15,Base metals and articles of base metals,base metals,2012,DFT,28353,12312,5434,46099
+15,15,Base metals and articles of base metals,base metals,2013,DFT,27641,13704,5329,46674
+15,15,Base metals and articles of base metals,base metals,2014,DFT,30213,20634,5595,56442
+15,15,Base metals and articles of base metals,base metals,2015,DFT,27263,24339,4667,56269
+15,15,Base metals and articles of base metals,base metals,2016,DFT,23199,23065,3927,50191
+15,15,Base metals and articles of base metals,base metals,2017,DFT,23732,24517,3656,51905
+15,15,Base metals and articles of base metals,base metals,2018,DFT,25472,26020,3692,55184
+15,15,Base metals and articles of base metals,base metals,2019,DFT,24566,25975,3518,54059
+15,15,Base metals and articles of base metals,base metals,2020,DFT,19879,22268,2923,45070
+15,15,Base metals and articles of base metals,base metals,2012,FZT,12782,1666,5103,19551
+15,15,Base metals and articles of base metals,base metals,2013,FZT,14275,1748,7365,23388
+15,15,Base metals and articles of base metals,base metals,2014,FZT,13259,1778,4822,19859
+15,15,Base metals and articles of base metals,base metals,2015,FZT,11448,1476,4305,17229
+15,15,Base metals and articles of base metals,base metals,2016,FZT,9805,1410,3370,14585
+15,15,Base metals and articles of base metals,base metals,2017,FZT,10637,1563,3434,15634
+15,15,Base metals and articles of base metals,base metals,2018,FZT,11732,2106,4390,18228
+15,15,Base metals and articles of base metals,base metals,2019,FZT,11190,1655,5099,17944
+15,15,Base metals and articles of base metals,base metals,2020,FZT,8957,1691,3669,14317
+16,16,"Machinery, sound recorders, TV and electrical equipment",Machinery,2012,DFT,74642,1445,30582,106669
+16,16,"Machinery, sound recorders, TV and electrical equipment",Machinery,2013,DFT,90450,1938,38424,130812
+16,16,"Machinery, sound recorders, TV and electrical equipment",Machinery,2014,DFT,109187,2259,38514,149960
+16,16,"Machinery, sound recorders, TV and electrical equipment",Machinery,2015,DFT,109612,2458,38144,150214
+16,16,"Machinery, sound recorders, TV and electrical equipment",Machinery,2016,DFT,110088,2466,35743,148297
+16,16,"Machinery, sound recorders, TV and electrical equipment",Machinery,2017,DFT,107071,3156,42211,152438
+16,16,"Machinery, sound recorders, TV and electrical equipment",Machinery,2018,DFT,83386,3318,33845,120549
+16,16,"Machinery, sound recorders, TV and electrical equipment",Machinery,2019,DFT,84393,3709,32410,120512
+16,16,"Machinery, sound recorders, TV and electrical equipment",Machinery,2020,DFT,70208,3792,27537,101537
+16,16,"Machinery, sound recorders, TV and electrical equipment",Machinery,2012,FZT,108831,1265,95733,205829
+16,16,"Machinery, sound recorders, TV and electrical equipment",Machinery,2013,FZT,130648,1634,123369,255651
+16,16,"Machinery, sound recorders, TV and electrical equipment",Machinery,2014,FZT,142855,2350,121262,266467
+16,16,"Machinery, sound recorders, TV and electrical equipment",Machinery,2015,FZT,130146,2429,111411,243986
+16,16,"Machinery, sound recorders, TV and electrical equipment",Machinery,2016,FZT,114543,2421,92076,209040
+16,16,"Machinery, sound recorders, TV and electrical equipment",Machinery,2017,FZT,120784,3184,95685,219653
+16,16,"Machinery, sound recorders, TV and electrical equipment",Machinery,2018,FZT,120921,4207,122679,247807
+16,16,"Machinery, sound recorders, TV and electrical equipment",Machinery,2019,FZT,131242,4084,134566,269892
+16,16,"Machinery, sound recorders, TV and electrical equipment",Machinery,2020,FZT,123714,2801,127431,253946
+17,17,"Vehicles, aircraft and vessels",Vehicles,2012,DFT,70474,688,23131,94293
+17,17,"Vehicles, aircraft and vessels",Vehicles,2013,DFT,70066,591,28286,98943
+17,17,"Vehicles, aircraft and vessels",Vehicles,2014,DFT,76415,1795,30819,109029
+17,17,"Vehicles, aircraft and vessels",Vehicles,2015,DFT,76648,1070,29982,107700
+17,17,"Vehicles, aircraft and vessels",Vehicles,2016,DFT,76983,1627,27142,105752
+17,17,"Vehicles, aircraft and vessels",Vehicles,2017,DFT,57298,1291,35359,93948
+17,17,"Vehicles, aircraft and vessels",Vehicles,2018,DFT,45985,3067,33774,82826
+17,17,"Vehicles, aircraft and vessels",Vehicles,2019,DFT,41398,953,28571,70922
+17,17,"Vehicles, aircraft and vessels",Vehicles,2020,DFT,28122,636,22578,51336
+17,17,"Vehicles, aircraft and vessels",Vehicles,2012,FZT,11523,1712,7656,20891
+17,17,"Vehicles, aircraft and vessels",Vehicles,2013,FZT,13142,2461,8278,23881
+17,17,"Vehicles, aircraft and vessels",Vehicles,2014,FZT,17348,2084,11555,30987
+17,17,"Vehicles, aircraft and vessels",Vehicles,2015,FZT,15482,519,10000,26001
+17,17,"Vehicles, aircraft and vessels",Vehicles,2016,FZT,15548,340,9774,25662
+17,17,"Vehicles, aircraft and vessels",Vehicles,2017,FZT,18827,1826,12770,33423
+17,17,"Vehicles, aircraft and vessels",Vehicles,2018,FZT,20945,191,17727,38863
+17,17,"Vehicles, aircraft and vessels",Vehicles,2019,FZT,19572,145,16776,36493
+17,17,"Vehicles, aircraft and vessels",Vehicles,2020,FZT,14206,88,13599,27893
+18,18,"Optical, medical equipments and watches",Optical Medical,2012,DFT,7989,46,2150,10185
+18,18,"Optical, medical equipments and watches",Optical Medical,2013,DFT,8873,31,2307,11211
+18,18,"Optical, medical equipments and watches",Optical Medical,2014,DFT,9943,50,2542,12535
+18,18,"Optical, medical equipments and watches",Optical Medical,2015,DFT,9692,46,3757,13495
+18,18,"Optical, medical equipments and watches",Optical Medical,2016,DFT,9889,48,3199,13136
+18,18,"Optical, medical equipments and watches",Optical Medical,2017,DFT,9941,66,3766,13773
+18,18,"Optical, medical equipments and watches",Optical Medical,2018,DFT,10117,130,3740,13987
+18,18,"Optical, medical equipments and watches",Optical Medical,2019,DFT,10282,91,4371,14744
+18,18,"Optical, medical equipments and watches",Optical Medical,2020,DFT,9204,94,2873,12171
+18,18,"Optical, medical equipments and watches",Optical Medical,2012,FZT,7875,73,7131,15079
+18,18,"Optical, medical equipments and watches",Optical Medical,2013,FZT,7149,89,6693,13931
+18,18,"Optical, medical equipments and watches",Optical Medical,2014,FZT,8030,179,6567,14776
+18,18,"Optical, medical equipments and watches",Optical Medical,2015,FZT,7590,65,5670,13325
+18,18,"Optical, medical equipments and watches",Optical Medical,2016,FZT,7630,117,6508,14255
+18,18,"Optical, medical equipments and watches",Optical Medical,2017,FZT,7042,175,6556,13773
+18,18,"Optical, medical equipments and watches",Optical Medical,2018,FZT,6959,180,6516,13655
+18,18,"Optical, medical equipments and watches",Optical Medical,2019,FZT,7596,135,6904,14635
+18,18,"Optical, medical equipments and watches",Optical Medical,2020,FZT,6233,316,5808,12357
+19,19,"Arms, ammunition, parts and accessories",Arms,2012,DFT,24,6,11,41
+19,19,"Arms, ammunition, parts and accessories",Arms,2013,DFT,96,8,20,124
+19,19,"Arms, ammunition, parts and accessories",Arms,2014,DFT,83,6,7,96
+19,19,"Arms, ammunition, parts and accessories",Arms,2015,DFT,107,3,6,116
+19,19,"Arms, ammunition, parts and accessories",Arms,2016,DFT,133,32,19,184
+19,19,"Arms, ammunition, parts and accessories",Arms,2017,DFT,87,10,21,118
+19,19,"Arms, ammunition, parts and accessories",Arms,2018,DFT,85,5,26,116
+19,19,"Arms, ammunition, parts and accessories",Arms,2019,DFT,46,5,17,68
+19,19,"Arms, ammunition, parts and accessories",Arms,2020,DFT,67,9,12,88
+20,20,Miscellaneous manufactured articles not elsewhere classified,Miscellaneous,2012,DFT,7745,653,1779,10177
+20,20,Miscellaneous manufactured articles not elsewhere classified,Miscellaneous,2013,DFT,8649,639,2046,11334
+20,20,Miscellaneous manufactured articles not elsewhere classified,Miscellaneous,2014,DFT,10099,771,2083,12953
+20,20,Miscellaneous manufactured articles not elsewhere classified,Miscellaneous,2015,DFT,10295,664,2115,13074
+20,20,Miscellaneous manufactured articles not elsewhere classified,Miscellaneous,2016,DFT,9616,608,2493,12717
+20,20,Miscellaneous manufactured articles not elsewhere classified,Miscellaneous,2017,DFT,9272,718,1984,11974
+20,20,Miscellaneous manufactured articles not elsewhere classified,Miscellaneous,2018,DFT,8654,693,1675,11022
+20,20,Miscellaneous manufactured articles not elsewhere classified,Miscellaneous,2019,DFT,8604,727,1676,11007
+20,20,Miscellaneous manufactured articles not elsewhere classified,Miscellaneous,2020,DFT,7257,837,1404,9498
+20,20,Miscellaneous manufactured articles not elsewhere classified,Miscellaneous,2012,FZT,3088,119,2137,5344
+20,20,Miscellaneous manufactured articles not elsewhere classified,Miscellaneous,2013,FZT,2996,694,2048,5738
+20,20,Miscellaneous manufactured articles not elsewhere classified,Miscellaneous,2014,FZT,3784,146,2407,6337
+20,20,Miscellaneous manufactured articles not elsewhere classified,Miscellaneous,2015,FZT,4261,88,2519,6868
+20,20,Miscellaneous manufactured articles not elsewhere classified,Miscellaneous,2016,FZT,4262,78,2365,6705
+20,20,Miscellaneous manufactured articles not elsewhere classified,Miscellaneous,2017,FZT,4601,136,2529,7266
+20,20,Miscellaneous manufactured articles not elsewhere classified,Miscellaneous,2018,FZT,3999,102,2778,6879
+20,20,Miscellaneous manufactured articles not elsewhere classified,Miscellaneous,2019,FZT,4156,64,2472,6692
+20,20,Miscellaneous manufactured articles not elsewhere classified,Miscellaneous,2020,FZT,3603,64,2584,6251
+21,21,"Art work, collectors pieces and antiques",Art work,2012,DFT,100,22,300,422
+21,21,"Art work, collectors pieces and antiques",Art work,2013,DFT,131,43,175,349
+21,21,"Art work, collectors pieces and antiques",Art work,2014,DFT,227,34,538,799
+21,21,"Art work, collectors pieces and antiques",Art work,2015,DFT,145,52,225,422
+21,21,"Art work, collectors pieces and antiques",Art work,2016,DFT,170,39,173,382
+21,21,"Art work, collectors pieces and antiques",Art work,2017,DFT,218,152,312,682
+21,21,"Art work, collectors pieces and antiques",Art work,2018,DFT,199,112,167,478
+21,21,"Art work, collectors pieces and antiques",Art work,2019,DFT,302,59,421,782
+21,21,"Art work, collectors pieces and antiques",Art work,2020,DFT,211,97,524,832
+21,21,"Art work, collectors pieces and antiques",Art work,2019,FZT,320,1,315,636
+21,21,"Art work, collectors pieces and antiques",Art work,2020,FZT,120,2,87,209
